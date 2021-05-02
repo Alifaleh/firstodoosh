@@ -1,0 +1,4 @@
+[submodule "Alifaleh/dev_picking_cancel"]
+	path = Alifaleh/dev_picking_cancel
+	url = git@github.com:Alifaleh/dev_picking_cancel.git
+	branch = master
